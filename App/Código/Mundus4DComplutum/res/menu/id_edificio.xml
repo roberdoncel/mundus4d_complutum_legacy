@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+	    <item
+        android:id="@+id/fachada_monumental"
+        android:title="@string/fachada_monumental" />
+	    
+	    <item
+        android:id="@+id/criptoportico"
+        android:title="@string/criptoportico" />
+	    
+	    <item
+        android:id="@+id/curia"
+        android:title="@string/curia" />
+	    	    
+	    <item
+        android:id="@+id/decumanoiii"
+        android:title="@string/decumanoiii" />
+	    	    	    
+	    <item
+        android:id="@+id/basilica"
+        android:title="@string/basilica" />
+	    	    	    	    
+	    <item
+        android:id="@+id/portico_sur"
+        android:title="@string/portico_sur" />
+	    	    	    	    	    
+	    <item
+        android:id="@+id/termas_sur"
+        android:title="@string/termas_sur" />
+	    	    	    	    	    	    
+	    <item
+        android:id="@+id/mercado"
+        android:title="@string/mercado" />
+	    
+	    <item
+        android:id="@+id/ninfeo"
+        android:title="@string/ninfeo" />
+	    	    	    	    	    	    	    
+	    
+	    
+	    
+</menu>

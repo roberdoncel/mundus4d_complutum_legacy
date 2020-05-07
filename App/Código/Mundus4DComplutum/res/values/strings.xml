@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mundus4D Complutum</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_menu_principal">MenuPrincipal</string>
+    <string name="title_activity_real_aumentada">RealAumentada</string>
+    <string name="title_activity_info">InfoActivity</string>
+    <string name="sel_edificio">Seleccionar Edificio</string>
+    <string name="info">Info</string>
+    <string name="fachada_monumental">Fachada monumental</string>
+    <string name="criptoportico">Criptoportico</string>
+    <string name="curia">Curia</string>
+    <string name="decumanoiii">DecumanoIII</string>
+    <string name="basilica">Basilica</string>
+    <string name="portico_sur">Portico Sur</string>
+    <string name="termas_sur">Termas Sur</string>
+    <string name="mercado">Mercado</string>
+    <string name="ninfeo">Ninfeo</string>
+    <string name="title_activity_historia_activity">Historia_activity</string>
+    <string name="title_activity_funciones_activity">Funciones_activity</string>
+    <string name="title_activity_sabias">Sabias</string>
+    <string name="basilica_h1">
+<![CDATA[ 
+        					<p>Se construyó en los años 50/60 del siglo I d.C, en época del emperador Claudio, para ser reformada en el último cuarto del siglo III. Su diseño se encuadra dentro de los cánones constructivos romanos de Basílica, que tiene su origen en el Norte y Centro de Italia, en época de Augusto. </p> 
+ 							<p>Se compone de un espacio central rodeado por un pasillo <i>(ambulacrum)</i>.Construida en <i>opus caementicium</i> sobre un zócalo de sillares de piedra, sus <b>dimensiones</b> hablan de <b>32,5 x 16,7m</b> en planta.  Se dispuso un suelo de <i>opus signimun (un mortero de cal, arena, piedra y ladrillo triturado) </i> elevado en el siglo III para hacerlo coincidir en altura con su edificio anexo, la curia, conformando un acceso hasta entonces inédito. 
+ 							Las paredes interiores estaban revestidas y decoradas con un revoco blanco y con mármoles de sustitución en distintos colores de canteras cercanas.</p> 
+							<p>Su emplazamiento es completamente atípico en el mundo romano, ubicado junto a las termas. Hecho que lleva a preguntarse si realmente se trata de una basílica civil. </p> 
+        
+        						]]>
+    </string>
+    <string name="basilica_f">
+<![CDATA[ 
+        					<p>En las basílicas civiles se desarrollaban actividades de diversa índole, como pueden ser importantes transacciones financieras, acuerdos comerciales, actos de culto, pero sobre todo eran el tribunal  de justicia.</p> 
+							<p>Se dispondría en el extremo Sur un tribunal elevado sobre una tarima de madera, donde se situarían el magistrado y las autoridades encargadas del juicio. En el lado norte, junto al paso a la curia, habría una cartela en <i>opus sectile (recortar placas de mármol de diversos colores para componer las figuras geométricas, de animales o humanas)</i> y cerca de él, una estatua en honor al gobernador, emperador o benefactor de la obra.</p> 
+							<p>Se presupone aquí el lugar donde según la tradición se dictó sentencia contra los niños Justo y Pastor, condenados por las autoridades durante la persecución contra los cristianos decretada por el emperador Diocleciano. </p> 
+        						]]>
+    </string>
+    <string name="basilica_s">
+<![CDATA[ 
+        					<p>El <b>Paredón del Milagro</b> fue el lugar donde la tradición cuenta que fueron torturados los Santos Niños hacía el año 303 d.C. Otra vertiente asegura que este hecho no pudo ser así, pues no estaba permitido realizar ejecuciones dentro de las ciudades romanas. Fuera como fuese, lo cierto es que el paredón constituía la fachada septentrional de las amortizadas termas norte que pasaron a formar la curia tras la gran reforma de finales del siglo III d.C.</p> 
+							<p>El muro conserva las marcas de las grapas que sujetaban los mármoles y de los mechinales constructivos, donde se fijaban los andamios.</p> 
+							<p>Durante siglos se mantuvo el culto a los Santos Niños, llevándose a cabo ritos cristianos según recogen los Annales Complutenses en la primera mitad del siglo XVII. Por esta época todavía se presupone un nivel de conservación de la fachada original bastante alto. Sin embargo, a mediados del siglo XX solo se reconocían los restos actuales del paredón. Fue protegido por una ermita que lo albergaba en su interior desde 1968, hasta el momento en el que pasó a formar parte del parque arqueológico. El impulsor de su creación fue Esteban Múgica, propietario de los terrenos en aquel momento.</p> 
+							<p>Hay documentadas procesiones desde la “fuente de la salud”, especie de ninfeo al oeste de Complutum, y desde pueblos de alrededor hacia el siglo XVI.</p> 
+        						]]>
+    </string>
+    <string name="curia_h">
+<![CDATA[
+        					<p>La curia se asienta sobre las antiguas termas norte, como parte de las profundas reformas llevadas a cabo en el foro a finales del siglo III d.C. </p> 
+							<p> El antiguo <b>frigidarium</b> pasa a ser un espacio de tránsito desde la basílica, lugares que antes no tenía ningún tipo de conexión entre ellos. El <b>tepidarium</b>, a su vez, se convierte en otro paso más para llegar a la curia, con acceso desde la planta baja del criptopórtico. Situada sobre el antiguo <b>caldarium</b> se emplaza la curia. Dentro de ésta es probable la existencia de una especie de gradas donde se sentarían los senadores y en la parte sur de la misma, junto al ábside, el lugar presidencial donde se emplazaría la presidencia.   </p> 
+							<p>La calefacción desaparece parcialmente llegando por medio de los hypocaustums (calefacción subterránea) al caldarium y tepidarium.</p>
+        					 
+        						]]>
+    </string>
+    <string name="curia_f">
+<![CDATA[
+        					<p>Son las salas destinadas a la administración y el gobierno de la ciudad.</p> 
+							<p>Los romanos exportaron las curias a todas las ciudades que obtenían el estatus de <b><i>municipium</b></i>, pasando a tener estas su propio senado y funcionarios encargados de la administración central. No eran electos, sino designados por el gobierno central. </p> 
+							<p>Las sesiones se realizaban bajo la presidencia de un cónsul o de un pretor. El presidente leía el texto del proyecto a discutir y se procedía a escuchar la opinión de los senadores. Por último se procedía a la votación realizada colocándose en hilera según su intención de voto y contando el número de senadores en cada fila.</p>  
+        					 
+        						]]>
+    </string>
+    <string name="criptoportico_h">
+<![CDATA[
+        					<p>Los criptopórticos son estructuras subterráneas, sobre los que se podían edificar una o dos plantas más. </p> 
+							<p>En Complutum su construcción coincide con la gran reforma del siglo III d.C. Se asienta sobre el acueducto que abastecía a las termas norte y a una fuente pública del siglo I. Construido en <i>opus caementicium</i> y con un suelo de <i>opus spicatum (colocación de ladrillos o piedras talladas en forma de espina de pez)</i>, la planta baja se cierra con una bóveda rebajada con una cubierta plana. La planta superior también se cerraría con forma abovedada. Esta forma, aparte repartir los pesos, ayudaba a mantener una temperatura óptima.  </p> 
+        					 
+        						]]>
+    </string>
+    <string name="criptoportico_f">
+<![CDATA[
+   	    					<p>Se busca crear una especie <i><b>tabularium (archivo municipal)</b></i> y de paso servir de base a una gran fachada monumental. Por otra parte, ofrecía una entrada monumentalizada a la curia. </p>
+							<p>Se complementa con esta construcción el espacio administrativo, jurídico y legislativo del municipium.</p> 
+        						]]>
+    </string>
+    <string name="criptoportico_s">
+<![CDATA[
+        					<p>Como habrá observado quizá le parezca la altura en su interior un poco reducida, pero hay que decir que el romano medio no superaba los 1,65 metros de altura. </p> 
+        					  
+        					 
+        						]]>
+    </string>
+    <string name="decumanoiii_h">
+<![CDATA[
+        					<p>Decumano es un término utilizado en el urbanismo romano para identificar las calles con orientación este-oeste. </p> 
+							<p>El Decumano III consistía en una calle porticada de 12m de anchura. Se componía de una calzada central de 6m de ancho y a ambos lados un pórtico de 3m de ancho cada uno. </p> 
+							<p>Bajo el Decumano III corre la cloaca encargada de desaguar y conducir el agua residual hacía el río Henares.</p> 
+							<p>En Complutum se distinguen dos categorías de calles. Las principales, de 12m de anchura y porticadas, entre las que se encuentran el decumano III, IV y las secundarias que carecen de pórticos, reduciéndose la anchura total a 6m.  </p> 		 
+        						]]>
+    </string>
+    <string name="decumanoiii_s">
+<![CDATA[
+        					<p>Se pueden contemplar auténticas columnas complutenses a lo largo de la calle mayor de Alcalá de Henares. </p> 
+							<p>Los restos complutenses han sufrido un gran expolio a lo largo del tiempo ya sea para su utilización  en diferentes construcciones o por simple afán de coleccionismo. </p> 
+							<p>Del expolio para su reutilización nos ha quedado como herencia el Palacio Arzobispal y la gran ciudad universitaria de Alcalá de los siglos XVI y XVII. Pero también se utilizaron para construir la ciudad medieval islámica y medieval cristiana.</p> 
+							<p>La mayor parte de  Complutum se encuentra enterrada bajo los edificios colindantes. Se calcula que de las 50Ha que compondrían Complutum, 25 de ellas se hayan sepultadas. Los restos pertenecientes al parque arqueológico corresponden al REGIO II y REGIO I. Sin embargo, el REGIO III, IV, V y VI permanecen soterrados o han sido destruidos.</p> 
+							<p> Entre las causas de este suceso se culpa al espectacular crecimiento demográfico de Alcalá de Henares en los años 70 del siglo pasado. Alcalá pasó de 40.000 habitantes en los años 60 hasta los 120.000 habitantes. Esto unido a la falta de una legislación regulatoria en materia de preservación arqueológica han llevado a la actual situación. </p> 
+        					  
+        					]]>
+    </string>
+    <string name="portico_sur_h">
+<![CDATA[
+        					<p>El Pórtico Sur fue una zona comercial que como su nombre indica cerraba por el lado sur el foro. En se localizaban las tiendas y talleres de diferentes artesanos y artistas.  Se cree que existiría su homólogo en el lado norte del foro, aunque todavía sin excavar. </p> 
+							<p>Se construyó en los años 60-70 del siglo I, sufriendo varias rehabilitaciones a lo largo del tiempo. En el caso de Complutum, el Pórtico Sur se veía cortado por un arco que permitía la entrada y salida del foro. Gracias a los restos encontrados se sabe que una de las tiendas perteneció a un pintor y mosaicista, así como su taller (officina) y la existencia de un bar (thermopolium).  </p>  
+        					  
+      						]]>
+    </string>
+    <string name="portico_sur_s">
+<![CDATA[
+        					<p>Los romanos ya usaba el cristal en las ventanas, gracias a la invención del soplado de vidrio, hecho ocurrido en el siglo I a.C. Pero se dieron cuenta de que el cristal dejaba pasar la luz, pero también el frío. Por lo que inventaron la doble ventana. Los carpinteros hacían dos ranuras en el marco de la ventana separadas por unos centímetros para introducir una lamina de vidrio en cada una de ellas. </p> 
+							<p>La doble ventana, aunque se ve como algo relativamente reciente en las viviendas actuales, es algo de lo que se tiene constancia de su existencia en la ciudad romana de Ostia, hace ya 2000 años.</p>     
+        					  
+        					]]>
+    </string>
+    <string name="termas_sur_h">
+<![CDATA[
+							<p>Con la reforma surgida en el siglo III donde las termas norte se amortizan en favor de la curia, Complutum se ve huérfana de un elemento fundamental en cualquier ciudad romana que se precie.. Por ello se acomete la construcción de unas nuevas termas. </p> 
+							<p>Éstas se situaron en el único sitio posible cercano al foro, entre el mercado y el pórtico sur. Limitando por el norte con la basílica y cortando el Decumano IV. </p> 
+							<p>Sus dimensiones, bien por la falta de espacio o bien por el declive económico de la ciudad, se vieron reducidas. </p>
+
+							<p>Son del <b><i>tipo provincial o lineal</i></b>, es decir, una disposición lineal de ambientes. En los restos encontrados en Complutum se pueden precisar 4 espacios. El primero, junto a la basílica sería el compuesto por un frigidarium y un pequeño vestuario <b><i>(apodyterium)</i></b>. </p> 
+							<p>De este <b>frigidarium</b> se conocen tres momentos constructivos: En el primero, la piscina se adosa sobre el muro recto que cierra la sala por el Oeste. En la segunda, se coloca un nuevo solado a la estancia. En la tercera, se construye un ábside en el extremo oeste de la sala, se amortiza la anterior piscina para ser integrada por una semicircular.</p> 
+							<p>Tras este primer espacio se sitúa el <b>tepidarium</b>, piscina de agua templada. Y por último, en la zona sur de las termas se sitúa el <b>caldarium</b>, piscina de agua caliente.  Estas piscinas eran calefactadas a través de los hypocaustums. </p> 
+							<p>El <b>praefurnium</b>, que es el espacio que le seguiría a continuación no tenía acceso a los usuarios de las termas pues era el lugar desde donde los operarios mantenían los hornos en funcionamiento.</p> 
+        						
+        					]]>
+    </string>
+    <string name="termas_sur_f">
+<![CDATA[
+        					<p>Higiene, ejercicio, vida social y terapia medicinal.</p>
+							<p>Las termas eran baños donde los romanos pasaban su tiempo de ocio. Fueron lugares ideales para la vida social de la ciudad. A ellas acudían los habitantes en busca, aparte del respectivo baño, tener una conversación relajada, disfrutar del recreo, fomentar las relaciones sociales o simplemente tomar un masaje. Las termas encontradas en Complutum, de tipo provincial, son modestas en comparación con otras de mayor envergadura, las cuales disponían de todo tipo de servicios, como podía ser una “palestra”,  patio central donde hacer ejercicio físico, un “laconium”, baño de vapor, un “sudatio”, sauna, o un “natatio”, piscina apta para la natación. </p> 
+							<p>Era un lugar muy apreciado por los habitantes y por tanto era difícil asimilar una ciudad sin estos servicios. </p> 
+							<p>Las termas romanas en sus inicios fueron de uso privado para a partir del siglo II a.C pasar a ser públicos. Con Vespasiano Agripa los baños pasaron a ser de uso gratuito.</p> 
+							<p>Aunque todos los ciudadanos podían asistir a los baños, existían diferentes horarios para hombres y mujeres. O bien podría existir una duplicación de espacios, uno para cada sexo.  </p>  
+        					
+        					]]>
+    </string>
+    <string name="termas_sur_s">
+<![CDATA[
+        					<p>En la actualidad se puede encontrar unos baños romanos donde sigue fluyendo el agua, son los de Bath, una población al sudoeste de Inglaterra. Estos baños están construidos entorno a un manantial natural, del que manan más de 900.000 litros de agua caliente al día. Pero como se ha dicho, solo fluye el agua pues está prohibido el bañarse desde 1979, cuando una chica murió a causa de una meningitis amébica producida por una bacteria contraída al beber agua de forma accidental mientras nadaba. </p> 
+							<p>Los romanos fabricaron tuberías moldeando una lámina de plomo sobre un molde de madera. De ahí que el término plomería o fontanería venga de la palabra latina “plumbum” que significa plomo.</p> 
+							<p>Anexas a los baños se solían situar las letrinas. De forma que podían aprovechar el agua residual de los baños para purgar el sistema de retretes. </p> 
+							<p>Las termas más grandes jamás construidas fueron las Termas de Caracalla, en Roma. En ellas se podía disfrutar de casi cualquier servicio, tomar un baño, un masaje, cortarse el pelo, o acercarse al campo de lucha donde ejercitarse un rato. Las paredes estaban recubiertas de mármol y decoradas con estatuas. Eran tan grandes que solo el edificio central era más grande que la basílica de San Pedro. Estas termas tenían capacidad para 2.000 personas.</p> 
+							<p>No todos los ciudadanos sentían devoción por estos servicios. Séneca, considera que “la sudoración debe ser resultado de un gran esfuerzo físico y no de una improductiva sesión en una sala caliente”.</p> 
+							<p>En otro episodio describe su infierno al alojarse sobre unas termas en Bayas, cerca de Nápoles. Séneca hace referencia al bullicio de las mismas y su dificultad  para concentrarse en sus actividades. </p> 
+        
+        					]]>
+    </string>
+    <string name="mercado_h">
+<![CDATA[
+        					<p>Los restos arqueológicos encontrados pertenecen a dos períodos distintos. Un primer período, de mediados del siglo I d.C, se compondría de un patio central de planta rectangular rodeado, a su vez, por unos pórticos con los diferentes puestos de venta. No se conserva mucho de este antiguo mercado. Como indicios más claros se apreciaría una pileta en <i>opus signinum (Pavimento o recubrimiento de pared de época romana formado por una mezcla impermeable de cal, arena y fragmentos de cerámica, a veces con decoración de teselas) </i> supuestamente para el despiece de la carne.</p> 
+							Tendría una superficie de.........................
+							<p>Este mercado tenía acceso a la vecina Casa de los Grifos, a cuyos propietarios se les atribuye también la posesión del mercado. A pesar de ser un lugar sucio y ruidoso se sitúa extremadamente cerca del foro. Teniendo acceso desde el decumano IV.</p> 
+							<p>Tras la reforma del siglo III d.C el mercado o macellum pasa a ser una plaza abierta con una fachada del tipo escénico en su lado oriental., similar a la gran fachada monumental. De esta fachada se conserva su base. Las tiendas pasaron a ser tenderetes móviles, hecho constatado por la existencia de marcas en el suelo dejadas por los postes al ser clavados. </p> 
+							<p>Se me olvidaba decir que el pavimento era de ladrillos, como se puede apreciar en un pedazo de suelo junto a la fachada escénica junto a las termas. </p> 
+        						
+        					]]>
+    </string>
+    <string name="mercado_f">
+<![CDATA[
+         					<p>Los macellum eran lo que son los mercados de hoy en día. Lugares donde adquirir los productos básicos y no tan básicos para el quehacer diario. En ellos principalmente se adquirían carnes, pescados, así como frutas y hortalizas. </p>
+         					<p>En su mayoría se vendían productos básicos, aunque también se podían adquirir productos derivados, hechos con los mismos productos básicos o restos de por ejemplo el despiece de la carne. Así se podía conseguir, por ejemplo, productos hechos con los huesos de animales antes despiezados. </p> 
+        					
+        					]]>
+    </string>
+    <string name="ninfeo_h">
+<![CDATA[
+        					<p>Se asocia el Ninfeo con la construcción de las Termas Norte en el siglo I d.C. Ya que según los indicios se muestra la existencia de un acueducto que llevaría agua a las termas y a una fuente, la cual sería la incluida dentro del ninfeo. </p> 
+							<p>Ninfeo se señala como monumento consagrados a las ninfas, en este caso una fuente. A las ninfas se les considera una deidad, son personificaciones del culto a la naturaleza, en la mayoría de las veces identificadas con el flujo dador de vida de los manantiales. </p> 
+							<p>Poco o nada se sabe del ninfeo existente en Complutum, solo los restos de los escalones de piedra de su entrada y el pozo que ha quedado en el lugar dan ligera idea de lo que allí pudo haber.</p> 
+        						
+        					]]>
+    </string>
+    <string name="ninfeo_s">
+<![CDATA[
+         					<p>Era popular entre los romanos llevar amuletos fálicos. Sí, amuletos con forma de pene colgados al cuello. Pero no era como símbolo de fertilidad, sino para espantar el mal de ojo. Esto no quiere decir que cada símbolo fálico empleado en el mundo romano tenga que ver con este mal de ojo. </p> 
+							<p>Esto se ha deducido en primer lugar porque Plinio el Viejo menciona al dios Fascino como 
+							la divinidad protectora del aojo. Siendo la palabra “fascinare” utilizada para hacer referencia al mal de ojo. Por otra parte existen representaciones en las que aparece un gran ojo siendo atacado por un falo. </p> 
+							<p>Ruega decir que en el mundo greco-latino no existe una definición para el mal de ojo como conocemos hoy en día.</p> 
+							<p>En el mundo griego, mal de ojo se designaba por la palabra βασκανία y para aojador es βάσκανος. 
+							Sin embargo, βασκανία no siempre se traduce como mal de ojo, sino que puede ser también traducido como “envidia”, “influencia maligna o brujería”.   Βάσκανος también haría referencia al “brujo o hechizero” o “maldiciente”. </p> 
+
+							<p>En latín, por su parte, existen varias expresiones que hacen referencia al mal de ojo. Una es el verbo inuideo que se traduciría literalmente como “mirar contra”.  Esta referencia aparecería en un pasaje de Cicerón explicando el uso correcto del verbo inuidere haciendo referencia a una cita del Melanipo. Pero antes incluso había sido utilizado esta palabra como pasión y no como lanzamiento de una maldición.</p> 
+							<p>Fascinus no significa exclusivamente “maldición” o “aojo”. Se emplea también para designar al miembro viril.</p> 
+							<p>Por otra parte existen otras expresiones para referirse al mal de ojo como “obliquo oculo”, empleada por Horacio para referirse a la capacidad que puede tener alguien para maldecir y estropear su felicidad.</p> 
+
+							<p>Extracto basado en “EL MAL DE OJO EN EL OCCIDENTE ROMANO: 
+							MATERIALES DE ITALIA, NORTE DE ÁFRICA, PENÍNSULA IBÉRICA Y GALIA. “ de Antón Alvar Nuño.</p> 
+        					
+        					]]>
+    </string>
+    <string name="fachada_monumental_h">
+<![CDATA[
+        					<p>La fachada monumental aparece como respuesta a una necesidad escénica, monumental y barroca. El caminante al llegar siguiendo el Decumano III debía advertir la importancia del lugar al que se aproximaba. </p> 
+							<p>Su construcción se emplaza dentro de las reformas llevadas a cabo durante el siglo III d.C, donde el acueducto pierde su función, se destruye la fachada occidental de las termas y se levanta el criptopórtico sobre el que se apoya la nueva fachada monumental. </p> 
+							<p>Construida sobre un zócalo de opus caementicium, levantándose un alzado de sillares. Se disponían 8 plintos adelantados sobre los que se levantaban las columnas de piedras. </p> 
+							<p>Se presentaba revestido con mármoles blancos y cipollino de importación con calizas rojas traídas de canteras levantinas y grises de origen extremeño.</p> 
+							<p>Por último reseñar la existencia de una placa de mármol sobre la se grabó una inscripción poética conmemorando la reforma llevada a cabo.</p> 
+        					]]>
+    </string>
+    <string name="fachada_monumental_s">
+<![CDATA[
+                            <p>Su diseño se asemeja al de la biblioteca de Adriano en Atenas,  construida en la primera mitad del siglo II d.C.</p> 
+							<p>El texto de la inscripción poética recuperada, aunque solo se han recuperado partes fragmentadas, hace referencia a algo que estaba perdido para proyectarlo hacía la eternidad.</p> 
+							<p>Este tipo de inscripciones se les conocía con el nombre de (carmen epigraphicum) muy habituales durante esta época en el imperio romano.</p> 
+        					
+        					]]>
+    </string>
+    <string name="plantilla">
+<![CDATA[
+                                                   
+        					
+        					]]>
+    </string>
+    <string name="complutum_1">
+<![CDATA[
+			<p> <b>Acerca de Complutum</b> </p>
+			<p> <b>El primer asentamiento en San Juan del Viso</b> </p>
+			<p>	Los actuales restos conocidos de Complutum se remontan al siglo IV d.C. Sin embargo, sus inicios se sitúan sobre el vecino cerro de <b><i>San Juan del Viso</i></b>: <i>una plataforma elevada en la margen izquierda del río Henares</i>. Por los datos disponibles se sabe que fue el asentamiento de una primera población carpetana. Se intuye un carácter agreste y defensivo característico de las ciudades y ciudadelas celtibéricas. 
+			De esta ciudad se desconoce casi todo. Se la supone un <b><i>diseño clásico</i></b> concluyente con probablemente el período correspondiente al final de la <i>República</i> o la de <i>César</i>, allá por el siglo I a.C.</p>  
+			
+			<p> <b>Traslado al asentamiento definitivo</b> </p>
+			<p>Llegado cierto momento se emprendió el traslado a su actual emplazamiento en el otro margen del río. Datado entre la época de <i>Augusto</i> y la de <i>Claudio</i>, entre el cambio de Era y los años 50 del siglo I d.C.
+			Entre los posibles factores se destacan: </p>
+			<p>	A. Los factores climáticos, mucho más favorable en la vega que en el cerro.</p>
+			<p>	B. Mejor calidad de tierras de cultivo y pastoreo. </p>
+			<p>	C. Acercamiento de las grandes vías de comunicación (como las que unían con Mérida y Zaragoza).</p>
+			<p>	D. Mayor cantidad de agua gracias al río Henares.</p>
+
+			<p>	Destacar la actual zona conocida como <b><i>Fuente del Juncal</i></b>. Área repleta en la Antigüedad de fuentes y manantiales de aguas mineralizadas, considerándose milagrosas al menos hasta el siglo XVII. </p>
+				]]>
+    </string>
+    <string name="complutum_2">
+<![CDATA[
+			
+			<p>Los primeros trabajos de traslación se concentraron en las cercanías de la Fuente del Juncal, que se convertiría en la barriada más antigua y occidental de la ciudad <i>(Regio I)</i>. Más tarde en la época de Claudio se completará la trama urbana definitiva, obteniendo en el rango de <b><i>“municipium”</i></b> con el Edicto de Vespasiano en el año 73 o 74 d.C.</p>  <p>Hacia el siglo III d.C se acomete la reforma de edificios concretos, importantes y significativos como pueden ser la amortización de las termas o el criptopórtico.</p> 
+			<p>En el siglo V se puede considerar que se produce otra reforma llevándose a cabo esta vez modificaciones arquitectónicas y cambios de uso sobre los viejos edificios de varias zonas de la ciudad, pero manteniendo en lo esencial el diseño urbano original. </p>
+			
+			<p><b>La decadencia de Complutum</b></p>
+			<p>La decadencia de Complutum se gesto en los posteriores tres siglos, con áreas deterioradas o parcialmente abandonadas y la creciente ascensión en población y relevancia de el llamado suburbio <b><i>Campo Laudable</i></b>, ubicado en la actual catedral de Alcalá de Henares, con eminente carácter cristiano. </p>
+			<p>En el 711 con la invasión islámica se da la estocada definitiva. A partir del siglo VIII  se vio inmersa en el sistema defensivo musulmán de la Marca Media, y el centro poblacional, con nombre árabe de Q´alat abd Al-Salam, se desplazó a las abruptas colinas de la margen izquierda del río Henares, a un cerro de 630m de altura en las estribaciones del Ecce Homo. </p>
+			]]>
+    </string>
+    <string name="complutum_urba1">
+<![CDATA[
+				<p><b>El urbanismo de Complutum</b> </p>
+				<p>El Complutum imperial se constituye con un característico trazado ortogonal, es decir, las calles se cruzan perpendicularmente.</p> 
+				<p>Dos vías principales: decumano Máximo, con dirección este-oeste y convertido hoy en la calle Camino del Juncal, y el cardo Máximo, con dirección norte-sur. </p>
+				<p>Se dispone una trama urbana con manzanas de 30x30m con calles de dos categorías: las principales de 12m de anchura y porticadas. 3m de pórtico, 6m de calle y otros 3m de pórtico, visibles en los decumanos III, IV y V. Y las secundarias, de 6 m de anchura y sin pórticos. Estas se aprecian mayormente en la zona más oriental, en la Regio  II y III.
+				   La Regio I, más antigua y occidental ofrece manzanas más alargadas. </p>  
+				]]>
+    </string>
+    <string name="complutum_urba2">
+<![CDATA[
+				<p>En la confluencia de decumano III y cardo Máximo se sitúan el conjunto monumental y el foro, incluyendo la basílica civil, las termas norte que después se amortizarían para ser la curia, el criptopórtico, una gran fachada monumental, las termas sur,  el mercado de abastos “macellum”, un templo y otros espacios a estudiar.</p>
+				<p>En lo relativo a las casas privadas, se han conservado una gran cantidad de mosaicos y de pintura mural romanos dando una idea del alto nivel de vida de la ciudad. Así se conocen las casas de Baco, Leda, Cupidos, o Peces y sobresaliendo sobre todas la Casa de los Grifos. </p>
+				
+				]]>
+    </string>
+    <string name="complutum_urba3">
+<![CDATA[
+				<p>Reseñar la existencia de suburbios que se extendían hacía la periferia de la ciudad. Los suburbios Norte y Oeste se caracterizan por la abundancia de mausoleos, monumentos funerarios, fundaciones benéficas y jardines. Ejemplos de esto son la Fuente del Juncal, el Mausoleo de Aquiles y la Casa de Hippolitus. También se reconoce la existencia de la lavanderia “fullonica” del Camarmilla y el arco de la Buenavista. </p>
+				<p>El suburbio Este estaba confeccionado por grandes barrios y palacios. Primero, el Campo Laudable, ubicado a 1 milla  saliendo desde Complutum. Segundo, un pasillo ocupado por establecimientos agropercuarios y por grandes villas entre los que destaca la villa de Val. </p>
+				<p>Al sur se encuentran asentamientos no muy conocidos en los cerros y la infraestructura viaria como puede ser el Puente de Zulema sobre el río Henares. </p>
+
+				]]>
+    </string>
+    <string name="Mundus4D">
+<![CDATA[
+				<p> <b>Acerca de Mundus4D</b> </p><p></p>
+				<p>Mundus4D Complutum es una aplicación de realidad aumentada creada como parte de 
+				mi proyecto fin de carrera para la UPM. Trata de ofrecer una visita a los restos arqueológicos de la ciudad romana de Complutum de una manera
+				diferente. No es una aplicación profesional y solo soy programador aficionado... No sean muy duros con sus valoraciones. Qué además es gratis!.</p>
+				<p>Visiten la página del proyecto, por favor! "<a href=\"http://www.mundus4d.blogspot.com\">Mundus4D</a> " . En ella encontrarán material adicional,
+				algo sobre mí, las motivaciones del proyecto e incluso si le ha gustado dejar una propinilla para poder financiar 
+				próximos proyectos... Solo es un momento y les estaré eternamente agradecido! </p>
+				<p> Mis agradecimientos al servicio de arqueología de Alcalá de Henares pero sobretodo a las personas que han
+				compartido conmigo días de sol y sudores, me han prestado su tiempo, paciencia y hasta su móvil.</p>
+				<p> Los diseños 3D están basados en las reconstrucciones hipotéticas mostradas en <b><i>Guía_Catálogo de Complutum, Ciudad Romana.</i></b>
+				<p>Siento que el diseño 3D no haya sido más realista pero no he podido dedicarle más tiempo dado el plazo de entrega.
+				   Mejoraré los diseños en próximos proyectos... Lo prometo! </p>
+
+				]]>
+    </string>
+    <string name="Instrucciones1">
+<![CDATA[
+        
+					<p> <b>Instrucciones</b> </p><p></p>
+					<p>Pulse <b><i>"Empezar"</i></b> y disfrute!</p>
+					<p>Sitúese en alguno de los puntos situados junto a los paneles informativos y podrá visualizar 
+					   el edificio explicado en el panel. A falta de la autorización oficial para materializar estos puntos,
+					   puede ver su localización en la imagen adjunta.</p>
+					
+					]]>
+    </string>
+    <string name="Instrucciones2">
+<![CDATA[
+		        	<p> <b>Pulse para ampliar la imagen</b> </p>   			
+					
+					]]>
+    </string>
+    <string name="Instrucciones3">
+<![CDATA[
+	        
+	        		<p>Para cambiar el edificio que desea ver pulse en la pantalla para desplegar el <b>Menú</b> y seleccione <b><i>"Seleccionar Edificio".</i></b></p>
+					<p>Desde aquí podrá elegir el edificio. </p>
+					<p>Y listo! Solo apunte con el dispositivo como si fuese a fotografiar el monumento y... sorpresa!  
+  					 Bueno, espero que funcione sino si que va a ser una sorpresa de verdad. </p>
+  					
+  					<p>Cuando el posicionado del edificio no sea óptimo o directamente no aparezca pulse el botón <b>Reposicionar</b>
+  					   en el menú desplegable.</p>
+
+					<p><b>IMPORTANTE:</b> Dependiendo del dispositivo será necesario mantenerlo en modo panorámico. 
+   					La aplicación utiliza los sensores del dispositivo para orientarse. Si tiene problemas fíjese que
+   					al mirar el dispositivo al horizonte, el ángulo de inclinación sea aproximadamente 100g.  </p>
+   					<p><b>MÁS IMPORTANTE TODAVÍA</b>: A veces los sensores dan valores incorrectos. Si esto ocurre,
+   					solo tiene que realizar movimientos aleatorios girando el dispositivo en diferentes direcciones 
+   					de forma que estos se reseteen. Puede tomar como referencia que si se sitúa frente al paredón del 
+   					milagro desde el Decumano III, el valor del azimut debe rondar los 190g. TAMBIÉN SE HA COMPROBADO QUE EL
+   					IMÁN DEL CIERRE DE LAS FUNDAS PARA MÓVILES INTERFIERE EN LA LECTURA DEL CAMPO MAGNÉTICO, DANDO COMO RESULTADO
+   					VALORES ERRÓNEOS DEL AZIMUT. TÉNGALO EN CUENTA!.   </p>
+
+					<p>Para ver información acerca del edificio activo solo tiene que seleccionar desde el menú desplegable la opción <b><i>"Info".</i><b></p>
+					<p></p>
+	        		
+					]]>
+    </string>
+    <string name="title_activity_plano__mundus_">Plano Mundus</string>
+
+</resources>

@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MenuPrincipal"
+    android:orientation="horizontal"
+    android:background="#FFFFFFFF" >
+
+
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:id="@+id/ScrollLinearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+             >
+
+            <ImageView
+                android:id="@+id/imageView1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:src="@drawable/mundus_prueba240"
+                 />
+            
+        </LinearLayout>
+    </ScrollView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="fill_parent"
+        android:layout_marginLeft="20dp"
+        android:layout_weight="2"
+        android:orientation="vertical" >
+
+        <TextView
+            android:id="@+id/Complutum"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Complutum"
+            android:typeface="monospace"
+            android:textStyle="italic"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_weight="2"  />
+
+        <TextView
+            android:id="@+id/Mundus4D"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mundus4D"
+            android:typeface="monospace"
+            android:textStyle="italic"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_weight="2"  />
+
+        <TextView
+            android:id="@+id/Empezar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:typeface="monospace"
+            android:textStyle="italic"
+            android:layout_weight="0.18"
+            android:text="Empezar"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+           />
+
+        <TextView
+            android:id="@+id/Instrucciones"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="17dp"
+            android:text="Instrucciones"
+            android:typeface="monospace"
+            android:textStyle="italic"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_weight="2" />
+
+        <TextView
+            android:id="@+id/Salir"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:typeface="monospace"
+            android:textStyle="italic"
+            android:text="Salir"
+            android:textAppearance="?android:attr/textAppearanceMedium"
+            android:layout_weight="2" />
+    </LinearLayout>
+
+</LinearLayout>

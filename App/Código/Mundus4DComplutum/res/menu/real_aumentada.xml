@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/Salir_realAumentada"
+        android:orderInCategory="100"
+        android:showAsAction="never"
+        android:title="Reposicionar"/>
+    
+    <item
+        android:id="@+id/sel_edif"
+        android:title="@string/sel_edificio"        
+        />
+	
+    <item android:id="@+id/info"
+        android:title="@string/info"/>
+    
+</menu>
